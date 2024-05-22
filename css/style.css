@@ -1,0 +1,38 @@
+/* Reset default link color */
+a {
+    color: #3b5998;
+  }
+  
+  /* Reset default navbar border radius */
+  .navbar {
+    border-radius: 0;
+  }
+  
+  /* Customize navbar appearance */
+  .navbar-default {
+    background-color: #3b5998;
+    border-color: #3b5998;
+  }
+  
+  /* Style navbar brand */
+  .navbar-default .navbar-brand {
+    color: #fff;
+  }
+  
+  /* Hover and focus styles for navbar brand */
+  .navbar-default .navbar-brand:focus,
+  .navbar-default .navbar-brand:hover {
+    color: #fff;
+  }
+  
+  /* Style navbar links */
+  .navbar-default .navbar-nav>li>a {
+    color: #fff;
+  }
+  
+  /* Hover and focus styles for navbar links */
+  .navbar-default .navbar-nav>li>a:focus,
+  .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+  }
+  
